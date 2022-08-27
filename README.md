@@ -17,13 +17,13 @@ The official introduction and reviews for courses are not quite referenceable wh
 ## Functionality  
 1. Search by course ID  
     -Links to the corresponding course page if course exists.  
-    -Pop up a window to alert user that course not found.
+    -Pops up a window to alert user that course not found.
 2. Display course introduction, syllabus, reviews and projects  
     -Introduction is the same as the course introduction in official NEU course schedule. 
 3. Request to upload syllabus for each course
 4. Reviews:  
     -All users can see reviews while only logged in users can add reviews.   
-    -When a not logged in user try to add a review, a notification pop up will remind them to login.   
+    -When an unlogged user tries to add a review, a notification will pop up to remind to log in.   
     -All users can upvote and downvote a review.  
     -Users can filter reviews by semester and instructors: Semesters are written in the files.    
     -Use pagination component to see all reviews for a course.  
