@@ -2,9 +2,6 @@
 
 Group project of NEU CS5610 Web Development
 
-## Heroku Deploy  
-https://coursewiki-frontend-darkhorse.herokuapp.com/
-
 ## Test Methods:  
 Search Course ID in the search box on homepage or on top navigation bar.
 Try: CS5610 or CS5200
